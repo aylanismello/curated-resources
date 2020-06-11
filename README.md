@@ -1,5 +1,5 @@
-# curated-resources
-A collection of awesome things regarding React ecosystem
+# the archive
+A collection of awesome things
 
 ## One type of resource
 
